@@ -9,6 +9,8 @@ namespace _10_28ClassworkBranching
             Console.WriteLine("Hello World!");
             Console.WriteLine("Salve mundus!");
             Console.WriteLine("!Hola Mundo!");
+            Console.WriteLine("WUSSAUP");
+            Console.WriteLine("Bonjour Mounde!");
         }
     }
 }
