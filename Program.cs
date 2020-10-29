@@ -7,6 +7,8 @@ namespace _10_28ClassworkBranching
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
+            Console.WriteLine("Salve mundus!");
+            Console.WriteLine("!Hola Mundo!");
         }
     }
 }
